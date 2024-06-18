@@ -55,7 +55,7 @@
     "@material-ui/icons": "^4.11.2",
     "@react-leaflet/core": "file:./packages/react-leaflet/packages/core/",
     "@reduxjs/toolkit": "^1.6.0",
-    "axios": "^0.21.0",
+    "axios": "^0.28.0",
     "clipboard-polyfill": "^3.0.1",
     "clsx": "^1.1.1",
     "gapi-script": "^1.2.0",
@@ -89,7 +89,7 @@
     "react-swipeable-views": "^0.13.9",
     "react-tooltip": "^4.2.10",
     "redux": "^4.0.5",
-    "sanitize-html": "^2.1.2",
+    "sanitize-html": "^2.12.1",
     "sourcemapped-stacktrace": "^1.1.11",
     "svg-country-flags": "^1.2.10"
   },
